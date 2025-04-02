@@ -65,5 +65,5 @@ This project is open-source under the [MIT License](LICENSE). Feel free to modif
 Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## Contact
-For any queries, contact me at [your-email@example.com].
+For any queries, contact me at [ksrr9351@gmail.com].
 
